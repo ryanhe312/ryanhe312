@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a 3rd-year PhD student in School of Computer Science at [Fudan University](https://www.fudan.edu.cn), supervised by [Prof. Bo Yan](https://dml.fudan.edu.cn). Before that, I received my Bachelor's degree of Computer Science at Fudan University in 2021.
+I am a 4th-year PhD student in School of Computer Science at [Fudan University](https://www.fudan.edu.cn), supervised by [Prof. Bo Yan](https://dml.fudan.edu.cn). Before that, I received my Bachelor's degree of Computer Science at Fudan University in 2021.
